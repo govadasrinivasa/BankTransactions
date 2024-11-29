@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\BankAccountClient.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\BankAccountConfig.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\BankTransactionApplication.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\controller\BankTransactionController.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\dto\BankAccountDTO.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\dto\BankTransactionsDTO.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\entity\Transaction.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\repo\BankTransactionRepository.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\service\BankTransactionsService.java
+C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.23.1.RELEASE\BankTransactions\src\main\java\com\transaction\service\impl\BankTransactionServiceImpl.java
